@@ -1,0 +1,26 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+.navigation {
+  height: 10%;
+  background-color: rgb(22, 22, 79);
+}
+.navigation ul {
+  display: inline-flex;
+  list-style: none;
+}
+.navigation ul li {
+  margin: 10px;
+}
+.navigation ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  font-size: 25px;
+}
+.navigation ul li a:hover {
+  border-bottom: 2px solid white;
+  border-radius: 15px;
+}/*# sourceMappingURL=navbar.css.map */
